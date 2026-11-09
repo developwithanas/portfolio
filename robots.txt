@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://developwithanas.vercel.app/sitemap.xml
